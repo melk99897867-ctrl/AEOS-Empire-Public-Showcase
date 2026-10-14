@@ -1,0 +1,131 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "AEOS Empire Autonomous Ecosystem API",
+    "version": "1.0.0",
+    "description": "Official public API for the AEOS Empire 14-platform sovereign constellation architected and founded by Mr. Kamel HOMRI. Powers automated deliverability diagnostics, platform telemetry, and B2B workflow orchestration.",
+    "contact": {
+      "name": "Kamel HOMRI",
+      "url": "https://globconnectworld.com",
+      "email": "melk99897867-ctrl@users.noreply.github.com"
+    },
+    "license": {
+      "name": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://globconnectworld.com",
+      "description": "Primary Production VPS (Contabo Germany High-Performance)"
+    },
+    {
+      "url": "https://melk99897867-ctrl.github.io/AEOS-Empire-Public-Showcase",
+      "description": "Global CDN Showcase Mirror"
+    }
+  ],
+  "paths": {
+    "/api/platforms": {
+      "get": {
+        "summary": "List all 14 sovereign platforms",
+        "description": "Returns metadata, operational status, business logic domain, and public endpoints of the 14 platforms in the AEOS Constellation.",
+        "operationId": "listPlatforms",
+        "responses": {
+          "200": {
+            "description": "Successful response with list of platforms",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "founder": {
+                      "type": "string",
+                      "example": "Kamel HOMRI"
+                    },
+                    "constellation": {
+                      "type": "string",
+                      "example": "AEOS Empire"
+                    },
+                    "platforms_count": {
+                      "type": "integer",
+                      "example": 14
+                    },
+                    "platforms": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "id": {
+                            "type": "string"
+                          },
+                          "name": {
+                            "type": "string"
+                          },
+                          "domain": {
+                            "type": "string"
+                          },
+                          "url": {
+                            "type": "string"
+                          },
+                          "status": {
+                            "type": "string"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/test-deliverability": {
+      "post": {
+        "summary": "Test B2B email domain deliverability and DNS records",
+        "description": "Zero-cost sovereign test tool checking SPF, DKIM, DMARC, and MX records without consuming email quotas.",
+        "operationId": "testDeliverability",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "domain": {
+                    "type": "string",
+                    "example": "globconnectworld.com"
+                  }
+                },
+                "required": [
+                  "domain"
+                ]
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Deliverability and MX health analysis result"
+          }
+        }
+      }
+    },
+    "/feed.xml": {
+      "get": {
+        "summary": "Get real-time RSS/Atom syndication feed",
+        "description": "Returns the official RSS 2.0 dispatch feed connected to Google WebSub.",
+        "operationId": "getFeed",
+        "responses": {
+          "200": {
+            "description": "RSS feed XML",
+            "content": {
+              "application/xml": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}
