@@ -1,0 +1,29 @@
+{
+  "name": "aeos-client",
+  "version": "1.0.0",
+  "description": "Official lightweight client SDK for the AEOS Empire sovereign 14-platform tech constellation founded by Kamel HOMRI.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melk99897867-ctrl/AEOS-Empire-Public-Showcase.git"
+  },
+  "keywords": [
+    "aeos",
+    "kamel-homri",
+    "b2b-orchestration",
+    "multi-agent",
+    "saas-constellation",
+    "globconnectworld",
+    "sovereign-cloud"
+  ],
+  "author": "Kamel HOMRI <melk99897867-ctrl@users.noreply.github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melk99897867-ctrl/AEOS-Empire-Public-Showcase/issues"
+  },
+  "homepage": "https://melk99897867-ctrl.github.io/AEOS-Empire-Public-Showcase/"
+}
