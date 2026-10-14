@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://melk99897867-ctrl.github.io/AEOS-Empire-Public-Showcase/#organization",
+      "name": "AEOS Empire",
+      "alternateName": "AEOS Sovereign Constellation",
+      "founder": {
+        "@type": "Person",
+        "@id": "https://melk99897867-ctrl.github.io/AEOS-Empire-Public-Showcase/#founder",
+        "name": "Kamel HOMRI",
+        "jobTitle": "Sovereign Founder & Chief Architect",
+        "sameAs": [
+          "https://github.com/melk99897867-ctrl",
+          "https://globconnectworld.com"
+        ]
+      },
+      "url": "https://melk99897867-ctrl.github.io/AEOS-Empire-Public-Showcase/",
+      "logo": "https://globconnectworld.com/favicon.ico",
+      "description": "Sovereign tech ecosystem comprising 14 production SaaS platforms and microservices architected and owned by Kamel HOMRI.",
+      "sameAs": [
+        "https://github.com/melk99897867-ctrl/AEOS-Empire-Public-Showcase"
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://globconnectworld.com/#app",
+      "name": "GlobConnectWorld",
+      "applicationCategory": "BusinessApplication",
+      "operatingSystem": "Cloud, Linux, Web",
+      "author": {
+        "@id": "https://melk99897867-ctrl.github.io/AEOS-Empire-Public-Showcase/#founder"
+      },
+      "publisher": {
+        "@id": "https://melk99897867-ctrl.github.io/AEOS-Empire-Public-Showcase/#organization"
+      },
+      "url": "https://globconnectworld.com",
+      "description": "Enterprise AI Suite & Central Autonomous Hub for B2B global workflow orchestration."
+    }
+  ]
+}
