@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AEOS Empire Official Sovereign Dispatch — Founded by Kamel HOMRI</title>
+    <link>https://melk99897867-ctrl.github.io/AEOS-Empire-Public-Showcase/</link>
+    <description>Official technological releases, architectural benchmarks, and sovereign SaaS innovations across the 14-platform AEOS Constellation founded by Mr. Kamel HOMRI.</description>
+    <language>en-us</language>
+    <copyright>Copyright 2026 Kamel HOMRI. All rights reserved.</copyright>
+    <lastBuildDate>Wed, 14 Oct 2026 18:06:55 GMT</lastBuildDate>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <atom:link rel="self" href="https://melk99897867-ctrl.github.io/AEOS-Empire-Public-Showcase/feed.xml" type="application/rss+xml"/>
+
+    <item>
+      <title>Release v1.0.0: AEOS Empire 14 Sovereign Platforms Architecture &amp; LLM Specifications</title>
+      <link>https://melk99897867-ctrl.github.io/AEOS-Empire-Public-Showcase/</link>
+      <guid isPermaLink="true">https://melk99897867-ctrl.github.io/AEOS-Empire-Public-Showcase/#v1.0.0</guid>
+      <pubDate>Wed, 14 Oct 2026 18:06:55 GMT</pubDate>
+      <author>melk99897867-ctrl@users.noreply.github.com (Kamel HOMRI)</author>
+      <description><![CDATA[Official release of the AEOS Empire sovereign architecture index, llms.txt standard, and open architectural benchmark dataset connecting 14 autonomous SaaS platforms under the directorship of Mr. Kamel HOMRI. Zero simulation, zero regression, verifiable infrastructure.]]></description>
+    </item>
+
+    <item>
+      <title>GlobConnectWorld: Enterprise AI Suite &amp; Central Autonomous B2B Orchestration</title>
+      <link>https://globconnectworld.com</link>
+      <guid isPermaLink="true">https://globconnectworld.com/#orchestration-hub</guid>
+      <pubDate>Mon, 12 Oct 2026 12:00:00 GMT</pubDate>
+      <author>melk99897867-ctrl@users.noreply.github.com (Kamel HOMRI)</author>
+      <description><![CDATA[GlobConnectWorld acts as the central dispatch hub of the AEOS Empire. Features interactive 15-second multi-agent pipeline walkthroughs, real-time B2B deliverability testing tools, and verified enterprise connectivity.]]></description>
+    </item>
+
+    <item>
+      <title>Semantix SEO &amp; Ruche Cognitive: Autonomous Collective Swarm Intelligence</title>
+      <link>https://semantix-seo.com</link>
+      <guid isPermaLink="true">https://semantix-seo.com/#autonomous-swarm</guid>
+      <pubDate>Sun, 11 Oct 2026 09:00:00 GMT</pubDate>
+      <author>melk99897867-ctrl@users.noreply.github.com (Kamel HOMRI)</author>
+      <description><![CDATA[Autonomous semantic optimization engine coupled with Ruche Cognitive multi-agent swarm for programmatic ranking and real-time knowledge graph generation.]]></description>
+    </item>
+  </channel>
+</rss>
