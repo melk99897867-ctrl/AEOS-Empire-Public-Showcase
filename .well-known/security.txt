@@ -1,0 +1,6 @@
+Contact: mailto:melk99897867-ctrl@users.noreply.github.com
+Expires: 2027-12-31T23:59:59.000Z
+Preferred-Languages: en, fr
+Canonical: https://globconnectworld.com/.well-known/security.txt
+Policy: https://melk99897867-ctrl.github.io/AEOS-Empire-Public-Showcase/
+Acknowledgments: https://melk99897867-ctrl.github.io/AEOS-Empire-Public-Showcase/
