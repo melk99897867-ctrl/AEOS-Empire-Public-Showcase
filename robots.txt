@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://melk99897867-ctrl.github.io/AEOS-Empire-Public-Showcase/sitemap.xml
+Sitemap: https://globconnectworld.com/sitemap.xml
