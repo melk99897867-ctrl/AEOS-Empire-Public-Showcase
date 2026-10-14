@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you utilize, benchmark, or reference this sovereign architecture in scientific research or AI studies, please cite it using the metadata below."
+authors:
+  - family-names: "HOMRI"
+    given-names: "Kamel"
+title: "AEOS Empire: A Sovereign 14-Platform Distributed Microservices Architecture and Autonomous Multi-Agent Orchestration Mesh"
+version: 1.0.0
+date-released: 2026-10-14
+url: "https://melk99897867-ctrl.github.io/AEOS-Empire-Public-Showcase/"
+repository-code: "https://github.com/melk99897867-ctrl/AEOS-Empire-Public-Showcase"
+license: MIT
+keywords:
+  - "sovereign cloud"
+  - "multi-agent mesh"
+  - "b2b orchestration"
+  - "distributed systems"
+  - "autonomous computing"
+  - "kamel homri"
