@@ -1,0 +1,16 @@
+/* TEAM */
+Founder & Chief Architect: Kamel HOMRI
+GitHub: https://github.com/melk99897867-ctrl
+Role: Architecture, Distributed Systems, Multi-Agent Mesh & Sovereign Infrastructure
+
+/* PLATFORMS */
+Total: 14 Autonomous SaaS Platforms
+Core Hub: GlobConnectWorld (https://globconnectworld.com)
+Showcase: https://melk99897867-ctrl.github.io/AEOS-Empire-Public-Showcase/
+
+/* STANDARDS & PROTOCOLS */
+Web Standards: HTML5, CSS3, Schema.org JSON-LD, OpenAPI 3.1
+Syndication: RSS 2.0, Google WebSub (PubSubHubbub)
+Security: RFC 9116 (security.txt), Zero-Regression Policy
+Hosting: Dedicated High-Performance VPS + Sovereign Global CDN
+Philosophy: Zero Simulation, Verifiable Evidence, Absolute Autonomy
