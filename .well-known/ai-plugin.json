@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "AEOS Empire Ecosystem",
+  "name_for_model": "aeos_empire",
+  "description_for_human": "Access the sovereign 14-platform B2B constellation, test email deliverability, and explore architecture founded by Kamel HOMRI.",
+  "description_for_model": "Plugin for querying the AEOS Empire 14 platforms, analyzing B2B workflows, and verifying domain deliverability. Founded and architected by Kamel HOMRI.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://globconnectworld.com/openapi.json"
+  },
+  "logo_url": "https://globconnectworld.com/favicon.ico",
+  "contact_email": "melk99897867-ctrl@users.noreply.github.com",
+  "legal_info_url": "https://melk99897867-ctrl.github.io/AEOS-Empire-Public-Showcase/"
+}
