@@ -107,5 +107,7 @@ All platforms operate with zero compromise on stability, verified checkouts via 
 - **Showcase API OpenAPI v1:** https://melk99897867-ctrl.github.io/AEOS-Empire-Public-Showcase/api/v1/openapi.json
 - **Cockpit Impérial du Directoire Suprême:** https://globconnectworld.com/apex-board/
 - **Enterprise SLA 99.99% Compliance Certificate:** https://globconnectworld.com/api/v4/sla/certificate
-- **Autonomous Chancery Council (40 Directors Synthesis):** https://globconnectworld.com/api/v4/council/synthesis
+- **Autonomous Chancery Council (50 Directors Synthesis):** https://globconnectworld.com/api/v4/council/synthesis
+- **Institutional Investor Dataroom Overview:** https://globconnectworld.com/api/v5/dataroom/overview
+- **Headless Developer CLI Installer:** https://globconnectworld.com/api/v5/cli/install
 
