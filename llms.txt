@@ -105,4 +105,5 @@ All platforms operate with zero compromise on stability, verified checkouts via 
 - **Cryptographic License Verification:** https://globconnectworld.com/verify/license.html
 - **Developer Connectors & OpenAPI Portal:** https://globconnectworld.com/developers/
 - **Showcase API OpenAPI v1:** https://melk99897867-ctrl.github.io/AEOS-Empire-Public-Showcase/api/v1/openapi.json
+- **Cockpit Impérial du Directoire Suprême:** https://globconnectworld.com/apex-board/
 
