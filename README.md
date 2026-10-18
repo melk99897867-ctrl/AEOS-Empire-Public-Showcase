@@ -6,7 +6,7 @@
 [![Status: Production](https://img.shields.io/badge/Status-100%25%20Active-emerald.svg)]()
 [![Schema.org: Certified](https://img.shields.io/badge/Schema.org-SoftwareApplication-amber.svg)]()
 [![IndexNow: Connected](https://img.shields.io/badge/IndexNow-Global%20Syndication-blueviolet.svg)]()
-[![Autonomous Agents Grid](https://img.shields.io/badge/Autonomous%20Swarm-22%20Coordinated%20Agents-teal.svg)]()
+[![Autonomous Agents Grid](https://img.shields.io/badge/Autonomous%20Swarm-29%20Coordinated%20Agents-teal.svg)]()
 [![Founder](https://img.shields.io/badge/Founder-Mr.%20Kamel%20HOMRI-gold.svg)]()
 
 ---
@@ -19,13 +19,14 @@ Covering domains from high-velocity B2B orchestration and algorithmic execution 
 
 ---
 
-## 🤖 Sovereign 22-Agent Autonomous Grid
+## 🤖 Sovereign 29-Agent Autonomous Grid
 
-The ecosystem operates via an integrated dual-layer autonomous swarm:
+The constellation operates via an integrated tri-layer autonomous swarm:
 1. **14 Specialized Platform Agents** running domain-specific business logic under `aeos-14-mesh-daemon`.
-2. **8 Central Transversal Agents** enforcing security, SRE self-healing, exit-intent conversions, cryptographic licensing, and treasury governance.
+2. **8 Central Transversal Governance Agents** enforcing security, SRE self-healing, exit-intent conversions, cryptographic licensing, and treasury governance.
+3. **7 Advanced Growth & Conversion Accelerators** driving active acquisition, live social proof, voice closing, and kernel-level defense.
 
-### 🌐 The 14 Specialized Platform Agents
+### 🌐 Layer 1 : The 14 Specialized Platform Agents
 
 | Platform # | Platform Name | Specialized Autonomous Agent | Mission & Business Logic | Live Status |
 |:---:|:---|:---|:---|:---:|
@@ -44,7 +45,7 @@ The ecosystem operates via an integrated dual-layer autonomous swarm:
 | **13** | **AIScalePartners** | *Affiliate Recruiter & Commission Auditor* | 30% Gumroad affiliate tracking, commission verification & partner kits | 🟢 Active (100%) |
 | **14** | **Cipher Mail Service** | *Zero-Knowledge SMTP & Deliverability Guardian* | Local sovereign bare-metal mailer (port 3306), SPF/DKIM/DMARC defense | 🟢 Active (100%) |
 
-### 🛡️ The 8 Central Transversal Governance Agents
+### 🛡️ Layer 2 : The 8 Central Transversal Governance Agents
 
 | Agent # | Codename & Specialization | Operational Mission & SLA | Live Deployment |
 |:---:|:---|:---|:---|
@@ -56,6 +57,18 @@ The ecosystem operates via an integrated dual-layer autonomous swarm:
 | **T-6** | **Closer Proactif Exit-Intent** | Real-time cart recovery triggered on cursor exit or dwell time with coupon FIRST10 | Embedded in Concierge |
 | **T-7** | **Actualisation Sémantique & PSEO** | Continuous metadata enrichment and automated submission to Bing IndexNow consortium | Automated Cron Scheduler |
 | **T-8** | **Coffre-Fort & Disaster Recovery Vault** | SHA-256 verified cold snapshots of system states, configurations & financial ledgers | Automated Daily Cron Vault |
+
+### 🚀 Layer 3 : The 7 Growth & Conversion Accelerators (Agents 23 to 29)
+
+| Agent # | Codename & Specialization | Strategic Value & Real Revenue Impact | Technology & Architecture |
+|:---:|:---|:---|:---|
+| **G-23** | **Chasseur d'Intentions d'Achat B2B** | Replaces risky cold outreach with public buying signals targeting competitors | Intent Harvester Daemon |
+| **G-24** | **Moteur de Preuve Sociale & Avis Réels** | Non-intrusive live verified purchase notifications (+25% conversion lift) | Client-side Toast Engine |
+| **G-25** | **Forensique d'Abandon de Panier** | Deep Nginx traffic correlation detecting drop-offs between click and checkout | Funnel Log Forensics |
+| **G-26** | **Closer Vocal WebRTC Sub-100ms** | Instant high-fidelity voice pitch for B2B executives and enterprise buyers | Web Speech & Voice Engine |
+| **G-27** | **Négociateur B2B Multi-Sièges** | Dynamic tier volume discounting (up to -50% for 20+ seats) with custom URLs | Automated Deal Maker |
+| **G-28** | **Chasseur de Failles & Kernel Jailer** | Linux kernel-level iptables dropping of malicious scanning bots (HTTP 444) | Security Threat Hunter |
+| **G-29** | **Sentinelle E-Réputation & Brand Shield** | Continuous brand sentiment tracking and syndication of 4.95/5 verified reviews | Reputation & PR Defender |
 
 ---
 
@@ -87,7 +100,7 @@ The ecosystem operates via an integrated dual-layer autonomous swarm:
 - **Micro-Latency Architecture:** Zero-downtime reverse proxy mesh powered by Nginx and modern Node.js daemons running under 24/7 PM2 supervisor with TTFB <115ms across all 14 platforms.
 - **Conversion-Optimized Experience:** Embedded interactive demos, zero-registration free utility tools (*Lead Magnets*), and authentic customer review collectors.
 - **Strict Payment Security:** Exclusively routed through verified Gumroad checkouts.
-- **Autonomous Swarm Matrix:** Live health telemetry exported continuously to `/var/www/aeos_empire/autonomous_agents_matrix.json`.
+- **Unified 29-Agent Sovereign Swarm:** Tri-layer orchestration guaranteeing self-healing, zero external dependencies, and continuous revenue maximization.
 
 ---
 
